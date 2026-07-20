@@ -1,16 +1,37 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive portfolio website built with React and Three.js. The website uses an animated solar-system model as the main navigation. Visitors can scroll through space, select planets, open portfolio sections, listen to ambient background music, and interact with futuristic sound effects.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```text
+https://dinosaur23-github-io.vercel.app/
+```
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Interactive 3D solar system
+- Smooth scrolling camera journey
+- Clickable planet labels
+- Portfolio sections for About, Projects, Skills, and Contact
+- Futuristic loading screen
+- Background ambient music
+- Hover and click sound effects
+- Responsive user interface
+- Project and social links
+- Custom favicon
 
-## Expanding the ESLint configuration
+## Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP
+- Tailwind CSS
+
+## License
+
+This portfolio source code is for personal portfolio use. Third-party assets remain subject to their respective licenses.
